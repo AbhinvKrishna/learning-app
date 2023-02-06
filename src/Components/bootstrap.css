@@ -1,0 +1,41 @@
+.new {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.textarea {
+  padding: 80px 120px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.btn1 {
+  color: aliceblue;
+  background-color: rgba(72, 72, 197, 0.827);
+  cursor: pointer;
+}
+
+.btn2{
+  color: aliceblue;
+  background-color: rgb(134, 28, 28);
+  cursor: pointer;  
+  position: absolute;
+  margin-top: 373px;
+  margin-left: 300px;
+}
+
+.btn3{
+  color: aliceblue;
+  background-color: rgb(28, 95, 134);
+  cursor: pointer;  
+  position: absolute;
+  margin-top: 373px;
+  margin-right: 300px;
+}
